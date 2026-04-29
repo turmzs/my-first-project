@@ -3,3 +3,13 @@ first commit of tutorial
 Conceito chave de hoje: git config -> Define configurações para o Git.
 
 Conceito chave de hoje: git init -> Inicializa (cria) um novo repositório Git em uma pasta.
+
+Conceito chave de hoje: git status -> Mostra o estado dos arquivos.
+
+Conceito chave de hoje: git add -> Adiciona arquivos à "área de preparação" (Staging Area).
+
+Conceito chave de hoje: git commit -m "mensagem" -> Tira a "foto" (salva o estado) com uma mensagem explicativa.
+
+Conceito chave de hoje: git remote add -> Conecta seu repositório local a um repositório online (como o GitHub).
+
+Conceito chave de hoje: git push -> Empurra seus commits do computador local para o requinócio online.
