@@ -1,0 +1,5 @@
+first commit of tutorial
+
+Conceito chave de hoje: git config -> Define configurações para o Git.
+
+Conceito chave de hoje: git init -> Inicializa (cria) um novo repositório Git em uma pasta.
