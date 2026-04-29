@@ -13,3 +13,8 @@ Conceito chave de hoje: git commit -m "mensagem" -> Tira a "foto" (salva o estad
 Conceito chave de hoje: git remote add -> Conecta seu repositório local a um repositório online (como o GitHub).
 
 Conceito chave de hoje: git push -> Empurra seus commits do computador local para o requinócio online.
+
+São os conceitos a serem seguidos sempre que for atualizar:
+Conceito chave de hoje: git add .                  # Prepara TODAS as alterações
+Conceito chave de hoje: git commit -m "Mensagem"  # Tira a "foto" com uma descrição clara
+Conceito chave de hoje: git push                  # Envia as "fotos" para o GitHub
